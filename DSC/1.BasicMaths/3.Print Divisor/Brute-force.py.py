@@ -1,4 +1,5 @@
 """
+https://www.geeksforgeeks.org/problems/sum-of-all-divisors-from-1-to-n4738/1
 Brute Force
 TC - O(n), where n is the number
 SC - O(d), where d is the number of divisors of the input integer n

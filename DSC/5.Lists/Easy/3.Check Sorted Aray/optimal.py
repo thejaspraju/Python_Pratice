@@ -13,3 +13,5 @@ def isSorted(n: int, a: List[int]) -> int:
         if a[i] > a[i + 1]:
             return 0
     return 1
+
+print(isSorted(5,[1,2,3,4,5]))

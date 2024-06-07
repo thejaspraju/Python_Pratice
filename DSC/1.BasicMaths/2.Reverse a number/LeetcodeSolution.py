@@ -19,6 +19,7 @@ class Solution:
             x = x // 10
         if is_negative:
             reverse_number = reverse_number * -1
+        #This is Leet code condition
         if reverse_number < (-(2**31)) or reverse_number > (2**31 - 1):
             return 0
         return reverse_number
