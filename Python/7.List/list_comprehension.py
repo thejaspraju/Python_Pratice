@@ -1,10 +1,10 @@
 # To create new lists
-# result = []
-# for i in range(1, 11):
-#     if i % 2 == 0:
-#         result.append(i)
+result = []
+for i in range(1, 11):
+    if i % 2 == 0:
+        result.append(i)
 
-# print(result)
+print(result)
 
 # start = 1
 # end = 10

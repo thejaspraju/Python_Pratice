@@ -3,7 +3,7 @@ lst2 = [10, 11, -2, -4]
 # result = lst1 + lst2
 # print(result)
 
-# print(lst1 + 5)
+#print(lst2 + 5)
 # print(lst1 - 5)
 # print(lst1 / 5)
 # print(lst1 * 5)
