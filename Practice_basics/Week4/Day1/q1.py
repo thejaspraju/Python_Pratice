@@ -13,7 +13,7 @@ for i in my_list:
         odd_list.append(i)
 print (even_list)
 print (odd_list)
-################# Code and Dbug ###########3
+################# Method 2 ###########3
 from typing import List
 
 def oddEvenlist(lst: List[int]) -> None:

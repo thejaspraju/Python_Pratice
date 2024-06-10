@@ -12,7 +12,7 @@ print(reversestring("we are in earth"))
 def reverseWord(string:str)->str:
     words = string.split()
     words.reverse()
-    result = "".join(i for i in words)
+    result = " ".join(i for i in words)
     return result
 
 print(reverseWord("python is great"))

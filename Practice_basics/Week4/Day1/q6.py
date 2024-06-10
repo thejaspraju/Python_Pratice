@@ -13,7 +13,7 @@ def remove(lst:List,position)-> None:
 my_list = [34,2,1,4,6,6,32,1,2,3,41,67,54,78]
 remove(my_list,5)
 
-#################### Code
+#################### M2
 def removeNth(lst: List, n: int) -> None:
     lst.pop(n)
 

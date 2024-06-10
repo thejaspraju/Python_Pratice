@@ -18,7 +18,7 @@ def countoddeven(nums : List)->None:
 my_list = [34,11,91,59,22,33]
 countoddeven(my_list)
 
-############################ Code debug
+############################ Method 2
 my_list = [43, 65, "Elon", "Ambani", False, 55.43]
 
 
