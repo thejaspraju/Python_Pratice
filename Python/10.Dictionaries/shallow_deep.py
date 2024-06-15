@@ -6,8 +6,8 @@ my_dictionary = {
     "gender": ["Male", "Female"],
 }
 
-# xyz = my_dictionary.copy()
-# xyz = copy.copy(my_dictionary)  # Shallow Copy
+#xyz = my_dictionary.copy()
+#xyz = copy.copy(my_dictionary)  # Shallow Copy
 xyz = copy.deepcopy(my_dictionary)  # Deep Copy
 
 print(id(my_dictionary["gender"]))
