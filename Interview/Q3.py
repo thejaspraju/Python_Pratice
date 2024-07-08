@@ -4,7 +4,7 @@ Given an integer n, return the number of trailing zeroes in n factorial n!
 def factorial_trailing_zero(n):
     fact = n
     while n > 1 :
-        fact *= n-1  # face = n * n-1
+        fact *= n-1  # fact = n * n-1
         n = -1
     
     result = 0

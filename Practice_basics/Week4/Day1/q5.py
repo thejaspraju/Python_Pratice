@@ -16,7 +16,7 @@ lsit1 = [1,2,3,4]
 list2 = [1,3,6,7]
 print(compare(lsit1,list2)) 
 
-################Method 2
+################ Method 2
 def common(lst1: List, lst2: List) -> List:
     result = []
     for i in lst1:

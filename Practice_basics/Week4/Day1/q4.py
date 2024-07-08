@@ -13,6 +13,7 @@ def sumAvg(lst : List):
 
 my_list = [1,2,3,4]
 sumAvg(my_list)
+
 ##################### Code and Debug
 def sumAverage(lst: List[int]) -> None:
     total = 0
